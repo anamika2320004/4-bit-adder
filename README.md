@@ -14,8 +14,8 @@ This project implements a **4-bit binary adder** using **Verilog HDL** on **EDA 
 ---
 
 ## Files
-- `adder_4bit.v` – 4-bit adder module
-- `tb_adder_4bit.v` – Testbench for simulation
+- `design.sv` – 4-bit adder module
+- `testbench.sv` – Testbench for simulation
 
 ---
 
