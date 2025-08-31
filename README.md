@@ -53,11 +53,6 @@ Each full adder adds corresponding bits of `A` and `B` along with the carry from
 | 1111    | 0001    | 0000    | 1    |
 
 ---
-
-## Author
-**Anamika Sharma**  
-ECE Student | GitHub: [Your GitHub link]
-
 ---
 
 ## License
